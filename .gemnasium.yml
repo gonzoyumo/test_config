@@ -1,0 +1,9 @@
+dependency_files:
+  -
+    path: subdir1/Gemfile
+  -
+    path: subdir1/Gemfile.lock
+  -
+    path: subdir2/bower.json
+  -
+    path: subdir2/package.json

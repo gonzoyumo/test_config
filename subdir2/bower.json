@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jquery": "~3.2.1",
+    "jquery-cycle2": "^2.1.6",
+    "components-bootstrap": "^3.3.6"
+  }
+}
