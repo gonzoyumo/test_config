@@ -5,7 +5,7 @@
     "node": "6.9.5"
   },
   "dependencies": {
-    "angular": "1.6.3",
+    "angular": "1.6.3"
   },
   "devDependencies": {
     "webpack": "2.3.2",
